@@ -6,5 +6,5 @@ The source code for the Visualifyjs framework can be found in the repository [vi
 
 The [visualify.CLI](https://github.com/visualify/visualify.CLI) converter makes data compatible with Visualifyjs.
 
-More details? Please refer to: https://visualify.pharmacy.arizona.edu/”
+More details? Please refer to: https://visualify.pharmacy.arizona.edu/
 
